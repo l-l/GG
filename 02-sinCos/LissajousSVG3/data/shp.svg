@@ -3,8 +3,9 @@
 <svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 512 512" overflow="scroll" xml:space="preserve">
 <circle fill="#DDDDDD" cx="85.5" cy="235.6" r="2.9"/>
-<polygon fill="#5762AC" points="12.1,-132.4 0,-27.8 -2.9,-27.8 0.5,-126.6 "/>
+<polygon fill="#5762AC" points="12.1,-101 0,-27.8 -2.9,-27.8 0.5,-96.9 "/>
 <polygon fill="#2C2CA8" points="25,-110.3 -1.5,-8.6 -4.3,-9.1 12.6,-106.3 "/>
 <polygon fill="#F6FFB3" points="1.6,-131.6 0.3,-82.7 -1.9,-80.1 -2.3,-128.6 "/>
 <polygon fill="#E06D26" points="9.7,-70 2.9,-50.4 6.2,-78.4 "/>
+<circle fill="#FF0000" cx="79.5" cy="24.8" r="3.1"/>
 </svg>
